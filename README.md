@@ -1,5 +1,5 @@
 # Project
-- Applications for Sales Managing
+- Applications for Sales Management
 - CRUD Customer
 - CRUD Products
 - CRUD Sales
