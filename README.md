@@ -1,5 +1,5 @@
 # Project
-- Applications for Sales Management
+- Example of Application for Sales Management using Spring+Hibernate+Mysql+Rest
 - CRUD Customer
 - CRUD Products
 - CRUD Sales
