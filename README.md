@@ -4,6 +4,10 @@
 - CRUD Products
 - CRUD Sales
 
+#  Architecture
+  - SalesNowBusiness (Back-end - Database access and rest service provider)
+  - SalesNowWeb (Front-end - under construction)
+
 # Quick Start
 ```
 git clone https://github.com/xandecmartins/salesnow
